@@ -7,6 +7,7 @@ using Microsoft.Extensions.Logging;
 
 namespace GitHubTest.Controllers
 {
+//Cookies are tasty
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
