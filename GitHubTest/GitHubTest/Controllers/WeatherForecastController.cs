@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
 namespace GitHubTest.Controllers
-{ //check into master test
+{ //check into master test with protection
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
