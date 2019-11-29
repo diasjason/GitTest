@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Source\\Clone\\GitTest\\GitHubTest\\GitHubTest\\GitHubTest.csproj": {}
+    "E:\\Source\\Clone\\GitTest\\GitHubTest\\GitHubTest.csproj": {}
   },
   "projects": {
-    "E:\\Source\\Clone\\GitTest\\GitHubTest\\GitHubTest\\GitHubTest.csproj": {
+    "E:\\Source\\Clone\\GitTest\\GitHubTest\\GitHubTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Source\\Clone\\GitTest\\GitHubTest\\GitHubTest\\GitHubTest.csproj",
+        "projectUniqueName": "E:\\Source\\Clone\\GitTest\\GitHubTest\\GitHubTest.csproj",
         "projectName": "GitHubTest",
-        "projectPath": "E:\\Source\\Clone\\GitTest\\GitHubTest\\GitHubTest\\GitHubTest.csproj",
+        "projectPath": "E:\\Source\\Clone\\GitTest\\GitHubTest\\GitHubTest.csproj",
         "packagesPath": "C:\\Users\\diasj\\.nuget\\packages\\",
-        "outputPath": "E:\\Source\\Clone\\GitTest\\GitHubTest\\GitHubTest\\obj\\",
+        "outputPath": "E:\\Source\\Clone\\GitTest\\GitHubTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diasj\\AppData\\Roaming\\NuGet\\NuGet.Config",
