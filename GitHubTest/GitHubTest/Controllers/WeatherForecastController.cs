@@ -8,6 +8,8 @@ using Microsoft.Extensions.Logging;
 namespace GitHubTest.Controllers
 { //check into master test with protection
     //what happens how i test it
+
+        //releaes test
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
