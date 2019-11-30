@@ -32,7 +32,6 @@ steps:
   inputs:
     command: publish
     publishWebProjects: False
-    projects: '**/GitHubTest.csproj'
     arguments: '--configuration $(buildConfiguration) --output $(build.artifactStagingDirectory)'
     zipAfterPublish: True
 
